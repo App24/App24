@@ -1,5 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=App24&theme=dracula&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=App24&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=App24&count_private=true&hide=stars,issues&show_icons=true&theme=nord"/ width = 50%>
+  <img alt="Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=App24&layout=compact&theme=nord"/ width = 38%>
+</p>
 I'm Ricardo Xavier, I am currently a university student studying Computer Games Technology.
 
 I have an interest in any programming related project, from making games to making programming languages and OS's.
