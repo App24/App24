@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=App24&theme=dracula&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=App24&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
 I'm Ricardo Xavier, I am currently a university student studying Computer Games Technology.
 
 I have an interest in any programming related project, from making games to making programming languages and OS's.
